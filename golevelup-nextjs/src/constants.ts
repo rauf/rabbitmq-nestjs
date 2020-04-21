@@ -1,0 +1,5 @@
+export const RABBITMQ_URL = "amqp://localhost:5672"
+export const RABBITMQ_QUEUE_NAME = "test-queue"
+export const EXCHANGE_NAME = "test-exchange"
+export const ROUTING_KEY = "test-routing-key"
+export const QUEUE_NAME = "test-queue-golevelup"
